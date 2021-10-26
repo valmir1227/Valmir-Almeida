@@ -9,7 +9,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/valmir1227/nlw-heat-origin/blob/main/demo/tablet.png?raw=true" width="450" height="600" />
 
 <br/>
 I'm Valmir Almeida. Aspiring front-end developer. Passionate about books, I like challenges. I'm always looking to learn new things.
