@@ -9,8 +9,7 @@
 
 
 ## </> *Hi there* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" width="450" height="350" />
+<div align="center"> <img align="right" alt="naruto" src="https://i.downloadatoz.com/download/icon2/c/9/c/05910c0720a110e0b9766a661e282b9f.jpg" width="450" height="350" />
 <br/>
 <strong>
  I'm Valmir Almeida. Aspiring front-end developer. Passionate about books, I like challenges. I'm always looking to learn new things.
@@ -27,12 +26,12 @@
  <img src="https://styles.redditmedia.com/t5_2ruxc/styles/communityIcon_xyu9ur5r4iu41.png" alt="sass" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
- <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
 </p>
 
 <br>
 
-## *Statistics*
+## *Statistics* 
 
 <p>
  <div align="left">
@@ -41,6 +40,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir1227&layout=compact&count_private=true&hide_border=true&theme=github_dark&show_icons=true">
   </div>
  </p>
+
+</div>
+
+
 
 ## *Projects*
 
