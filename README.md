@@ -8,7 +8,7 @@
 </div>
 
 
-## </> *Hi there* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## </> *Hi there* <img src="https://cdn.edu.buncee.com/assets/ba111f9c034b62909e86781680548894/animation-bunceeman-seeu-031220.gif?timestamp=1584131467" width="35px">
 <div align="center"> <img align="right" alt="naruto" src="https://i.downloadatoz.com/download/icon2/c/9/c/05910c0720a110e0b9766a661e282b9f.jpg" width="450" height="350" />
 <br/>
 <strong>
@@ -31,7 +31,7 @@
 
 <br>
 
-## *Statistics* 
+## </> *Statistics* 
 
 <p>
  <div align="left">
@@ -45,7 +45,7 @@
 
 
 
-## *Projects*
+## </> *Projects*
 
 ### <a href="https://github.com/valmir1227/Be-fit"> *ACADEMIA BE-FIT* </a>
 |HOME | HOME 2 |
