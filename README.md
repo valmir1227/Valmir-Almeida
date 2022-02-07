@@ -33,7 +33,7 @@
 
 ## </> *Statistics* 
 
- <div align="center">
+ <div align="left">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=valmir1227&hide_border=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> &nbsp;
   <br> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir1227&layout=compact&count_private=true&hide_border=true&theme=github_dark&show_icons=true">
