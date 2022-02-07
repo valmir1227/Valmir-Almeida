@@ -10,7 +10,7 @@
 
 ## </> *Hi there* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" width="500" height="350" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" width="450" height="350" />
 <br/>
 <strong>
  I'm Valmir Almeida. Aspiring front-end developer. Passionate about books, I like challenges. I'm always looking to learn new things.
