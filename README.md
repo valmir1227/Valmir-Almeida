@@ -23,10 +23,13 @@
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+ <img src="https://camo.githubusercontent.com/f83d85063a70b9e2f2f422c0b41f8834da2551ce1e9728b62c3397911fc09f7d/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f747970657363726970742d313137343936352e706e67" alt="git" width="60" height="60"/>
  <img src="https://styles.redditmedia.com/t5_2ruxc/styles/communityIcon_xyu9ur5r4iu41.png" alt="sass" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+  
+ 
 </p>
 
 <br>
