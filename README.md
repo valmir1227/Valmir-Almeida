@@ -50,7 +50,7 @@
 ### <a href="https://github.com/valmir1227/Be-fit"> *ACADEMIA BE-FIT* </a>
 |HOME | HOME 2 |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/valmir1227/Be-fit/blob/main/public/demo-images/home-1.png?raw=true"/>   | <img  align="left"  width="380px" src="https://github.com/valmir1227/Be-fit/blob/main/public/demo-images/home-2.png?raw=true"/> |
+|<img  align="left"  width="380px" src="https://raw.githubusercontent.com/valmir1227/Be-fit/main/app/public/demo-images/home-1.png"/>   | <img  align="left"  width="380px" src="https://raw.githubusercontent.com/valmir1227/Be-fit/main/app/public/demo-images/home-2.png"/> |
 
 ### <a href="https://github.com/valmir1227/Happy-"> *HAPPY* </a>
 |HOME |
