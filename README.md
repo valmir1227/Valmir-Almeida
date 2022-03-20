@@ -9,7 +9,7 @@
 
 
 ## </> *Hi there* <img src="https://cdn.edu.buncee.com/assets/ba111f9c034b62909e86781680548894/animation-bunceeman-seeu-031220.gif?timestamp=1584131467" width="35px">
-<div align="center"> <img align="right" alt="naruto" src="https://i.downloadatoz.com/download/icon2/c/9/c/05910c0720a110e0b9766a661e282b9f.jpg" width="450" height="350" />
+<div align="center"> <img align="right" alt="team" src="https://teaminsights.io/wp-content/uploads/2019/08/illustration-team-index.png" width="450" height="350" />
 <br/>
 <strong>
  I'm Valmir Almeida. Aspiring front-end developer. Passionate about books, I like challenges. I'm always looking to learn new things.
