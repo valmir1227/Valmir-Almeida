@@ -8,7 +8,7 @@
 </div>
 
 
-## </> *Hi there* <img src="https://cdn.edu.buncee.com/assets/ba111f9c034b62909e86781680548894/animation-bunceeman-seeu-031220.gif?timestamp=1584131467" width="35px">
+## </> *Hi there*
 <div align="center"> <img align="right" alt="team" src="https://teaminsights.io/wp-content/uploads/2019/08/illustration-team-index.png" width="450" height="350" />
 <br/>
 <strong>
