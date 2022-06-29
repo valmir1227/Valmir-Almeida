@@ -8,7 +8,8 @@
 </div>
 
 
-## </> *Olá *
+## </> Olá 
+
 <div align="center"> <img align="right" alt="team" src="https://teaminsights.io/wp-content/uploads/2019/08/illustration-team-index.png" width="450" height="350" />
 <br/>
 <strong>
