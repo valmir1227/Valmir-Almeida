@@ -8,7 +8,7 @@
 </div>
 
 
-## </> *Olá*
+## </> *Olá *
 <div align="center"> <img align="right" alt="team" src="https://teaminsights.io/wp-content/uploads/2019/08/illustration-team-index.png" width="450" height="350" />
 <br/>
 <strong>
@@ -37,11 +37,11 @@
 <br>
 
 ## </> *Statistics* 
-
+ 
+ ![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir1227&show_icons=true&theme=github_dark)
+ 
  <div align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=valmir1227&hide_border=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> &nbsp;
-  <br> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir1227&layout=compact&count_private=true&hide_border=true&theme=github_dark&show_icons=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir1227&layout=compact&count_private=true&hide_border=true&theme=github_dark&show_icons=true">
   </div>
 
 
