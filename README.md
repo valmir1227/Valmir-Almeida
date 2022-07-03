@@ -50,27 +50,31 @@
 
 ## </> *Projects*
 
-### <a href="https://github.com/valmir1227/Be-fit"> *ACADEMIA BE-FIT* </a>
-|HOME | HOME 2 |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://raw.githubusercontent.com/valmir1227/Be-fit/main/app/public/demo-images/home-1.png"/>   | <img  align="left"  width="380px" src="https://raw.githubusercontent.com/valmir1227/Be-fit/main/app/public/demo-images/home-2.png"/> |
+### <a href="https://github.com/valmir1227/ReactJs-Refactoring-Classes-TS"> *REFATORANDO CLASSES* </a>
+|HOME |
+|-- |
+|<img  align="left"  src="https://raw.githubusercontent.com/elianbecali/refactoring-classes-ts/master/.github/preview.gif"/>   | 
 
-### <a href="https://github.com/valmir1227/Happy-"> *HAPPY* </a>
+### <a href="https://github.com/valmir1227/Ignite-Componetizando-app"> *COMPONENTIZANDO APP REACT* </a>
 |HOME |
 |-- | 
-|<img  align="left"  width="380px" src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-omnistack/master/.github/happy.png"/> 
+|<img  align="left" src="https://raw.githubusercontent.com/valmir1227/Ignite-Componetizando-app/main/.github/161743504-abad57af-3f9c-4ad6-814d-2c030e46e297.gif"/> 
 
 ### <a href="https://github.com/valmir1227/aluracord"> *ALURACORD* </a>
 |HOME |
 |-- |
-|<img  align="left"  width="380px" src="https://github.com/valmir1227/aluracord/blob/main/images_demo/desktop.png?raw=true"/>
+|<img  align="left" src="https://github.com/valmir1227/aluracord/blob/main/images_demo/desktop.png?raw=true"/>
 
 ### <a href="https://github.com/valmir1227/nlw-heat-origin"> *Crachá DoWhile-2021* </a>
-|DESKTOP  | MOBILE  |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/valmir1227/nlw-heat-origin/blob/main/demo/desktop-mac.jpg?raw=true"/>   | <img  align="left"  width="380px" src="https://github.com/valmir1227/nlw-heat-origin/blob/main/demo/tablet.jpg?raw=true"/> |
+|HOME
+|-- |
+|<img  align="left" src="https://github.com/valmir1227/nlw-heat-origin/blob/main/demo/desktop.png?raw=true"/>  
+
+### <a href="https://github.com/valmir1227/beautysaloon"> *Beautysaloon* </a>
+|HOME |
+|-- |
+|<img  align="left" src="https://github.com/valmir1227/beautysaloon/blob/main/.github/home.png"/>
+
+ 
 
 ------------
-<h2 align="center">
-Don't stop till you're proud!
-</h2>
