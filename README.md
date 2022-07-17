@@ -19,7 +19,7 @@
 
 <br>
 
-## </> *Learning*
+## </> *Estudando*
 
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
@@ -37,7 +37,7 @@
 
 <br>
 
-## </> *Statistics* 
+## </> *Estatísticas* 
  
  ![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir1227&show_icons=true&theme=github_dark)
  
@@ -48,7 +48,7 @@
 
 
 
-## </> *Projects*
+## </> *Projetos*
 
 ### <a href="https://github.com/valmir1227/ReactJs-Refactoring-Classes-TS"> *REFATORANDO CLASSES* </a>
 |HOME |
