@@ -50,6 +50,11 @@
 
 ## </> *Projetos*
 
+### <a href="https://github.com/valmir1227/GPT-3"> *GPT3 AI* </a>
+|HOME |
+|-- |
+|<img  align="left" src="https://github.com/valmir1227/GPT-3/blob/master/.github/home.png?raw=true"/>
+
 ### <a href="https://github.com/valmir1227/ReactJs-Refactoring-Classes-TS"> *REFATORANDO CLASSES* </a>
 |HOME |
 |-- |
@@ -69,12 +74,5 @@
 |HOME
 |-- |
 |<img  align="left" src="https://github.com/valmir1227/nlw-heat-origin/blob/main/demo/desktop.png?raw=true"/>  
-
-### <a href="https://github.com/valmir1227/beautysaloon"> *Beautysaloon* </a>
-|HOME |
-|-- |
-|<img  align="left" src="https://github.com/valmir1227/beautysaloon/blob/main/.github/home.png"/>
-
- 
 
 ------------
