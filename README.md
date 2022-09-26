@@ -8,18 +8,18 @@
 </div>
 
 
-## </> Olá 
+## </> Hello
 
 <div align="center"> <img align="right" alt="team" src="https://teaminsights.io/wp-content/uploads/2019/08/illustration-team-index.png" width="450" height="350" />
 <br/>
 <strong>
- Eu sou o Valmir Almeida, desevolvedor front-end júnior, com foco em React.js. Gosto de resolver problemas desafiadores e que me instigam a buscar novos  conhecimentos!
+ I'm Valmir Almeida, front-end developer, I have experience in React.js and other technologies in the JavaScript ecosystem.
  <strong>
 <br/>
 
 <br>
 
-## </> *Estudando*
+## </> *Technologies*
 
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
@@ -37,7 +37,7 @@
 
 <br>
 
-## </> *Estatísticas* 
+## </> *Statistics* 
  
  ![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir1227&show_icons=true&theme=github_dark)
  
@@ -48,7 +48,7 @@
 
 
 
-## </> *Projetos*
+## </> *Projects
 
 ### <a href="https://github.com/valmir1227/GPT-3"> *GPT3 AI* </a>
 |HOME |
