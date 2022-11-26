@@ -13,7 +13,8 @@
 <div align="center"> <img align="right" alt="team" src="https://teaminsights.io/wp-content/uploads/2019/08/illustration-team-index.png" width="450" height="350" />
 <br/>
 <strong>
- I'm Valmir Almeida, front-end developer, I have experience in React.js and other technologies in the JavaScript ecosystem.
+ I'm Valmir Almeida, I have experience in React.js and other technologies in the JavaScript ecosystem.
+ I started studying programming through a scholarship acquired at a technology event. Currently I'm a Junior front-end and I've worked as a freelancer.
  <strong>
 <br/>
 
