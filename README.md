@@ -51,6 +51,11 @@
 
 ## </> *Projects
 
+### <a href="https://github.com/valmir1227/Gym-fit"> *GPT3 AI* </a>
+|HOME |
+|-- |
+|<img  align="left" src="https://raw.githubusercontent.com/valmir1227/Gym-fit/main/.github/Home.png"/>
+
 ### <a href="https://github.com/valmir1227/GPT-3"> *GPT3 AI* </a>
 |HOME |
 |-- |
