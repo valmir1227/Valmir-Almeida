@@ -13,8 +13,13 @@
 <div align="center"> <img align="right" alt="team" src="https://teaminsights.io/wp-content/uploads/2019/08/illustration-team-index.png" width="450" height="350" />
 <br/>
 <strong>
- I'm Valmir Almeida, I have experience in React.js and other technologies in the JavaScript ecosystem.
- I started studying programming through a scholarship acquired at a technology event. Currently I'm a Junior front-end and I've worked as a freelancer.
+My name is Valmir Almeida and I am a junior front-end developer with 1 year of experience in web development. I have strong skills in REACTJS, STYLED-COMPONENTS, and JAVASCRIPT, as well as experience with frameworks like NextJs.
+
+I am passionate about creating intuitive and visually appealing interfaces for users, and I always strive to stay updated with the latest trends and technologies in the market. Furthermore, I am very detail-oriented and enjoy working on challenging projects where I can apply my knowledge and skills.
+
+Currently, I work on developing and implementing websites for clients, and I always strive to ensure that the clients' needs are met and that projects are delivered on time.
+
+I am eager to continue my journey as a front-end developer and contribute to amazing projects with a talented team. I believe that I can offer value to your company with my skills and dedication.
  <strong>
 <br/>
 
