@@ -56,6 +56,11 @@ I am eager to continue my journey as a front-end developer and contribute to ama
 
 ## </> *Projects
 
+### <a href="[https://github.com/valmir1227/Gym-fit](https://github.com/valmir1227/Contact-list)"> *Lista de Contatos* </a>
+|HOME |
+|-- |
+|<img  align="left" src="https://lh3.googleusercontent.com/JesiKVmY6HGD0qQhGJvV27jM_7ZIJUm9v24iPPctwgoUTFvfsjO4C_uwYlqTrsQqBmR-Bk-Oe6tZzhoJjVq05jdpagxEwRhqZQfnTORdTWHHbD_huEL4N8Ua7DvE59ZUuQs6S9-7q8zgHFb4ZdnrL0wQs1n-tJvPgUxHZ9NVr5GsO8eciYuyyfZyU1XX5gxvR5BAuscGTAgEYQwNSei0XI72fFKBE4AMmp_h8pTgSHTYCzGYQaIkdnmBm2lUn33oT1qS3MZICOnLDTxEO3PJ7eu1ieXT2LdCRVNjDFe6cK2NzYB_3dsSJzm2oOaz0u4VH14Ad5C1B7tBVTqyrjj3j-qIw7hDIWAUO3IlDf_1j5jGr_HxooqmEAxzkJXfYXwwbwVsYiNMFZ4Z1dGU4GvmO7IJCrPsHAn3GLwlG5KnJzhSq7X_9m_MhVjfPcHzbUQRsEI0NCmpewZzlseZcNHa5dMEbupw8y425HbSzAChDauit8mUJwk3UnC7x7gQLCX5Uh-oc1QRmZGv4FJqn72wEF0XDF4f1eaWfuBFNeXsiq8tecVDZ1eSloZA-dWxfSypV2_w_WNCzV8bBiPQLNX_a0bLUee6gY4FOVV-fG1zJTqIl469JnpEsn2JWT0kgWfNVoxUmCrLGyTWckhVB0_F6H9eS_dZ09n6xuGDHENwlcbvbq-I7Llry5Wtey0YT6bVnEgp3MjMNhmJ17MWuEoBW0U2VOtctj4f3LKhz0Oms7xIERRHIyjtQKVmqPO5SRkaTVWShkCKvGo0z30EUAN6mANVIPqVLCkUjHjlWRO7EySILVoF5_cnKR-pa9_HqpwKlII6TQaKoPJAqqExGNCClAf0SV5wAxkpseU8-Skl8K1xsxiDpaPkh7NS7oDxTO3HDDuSXqJ31iqJNbdqk_buWVnpavLol9jv2E1sg8hkMIIVyOL-kw=w822-h975-s-no?authuser=0"/>
+
 ### <a href="https://github.com/valmir1227/Gym-fit"> *GYM-FIT* </a>
 |HOME |
 |-- |
